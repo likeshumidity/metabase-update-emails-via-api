@@ -1,0 +1,5 @@
+# Update the below variables and save as .env or set these environment variables
+METABASE_ADMIN_USER=adminuser@domain.com
+METABASE_ADMIN_PASS=somePassWord
+
+METABASE_BASE_URL=https://yourmetabase.domain.com
