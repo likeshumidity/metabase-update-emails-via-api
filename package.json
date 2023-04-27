@@ -1,0 +1,10 @@
+{
+  "name": "metabase-update-emails-via-api",
+  "version": "1.0.0",
+  "description": "Sample code to update user emails via Metabase API",
+  "main": "index.js",
+  "repository": "https://github.com/likeshumidity/metabase-update-emails-via-api",
+  "author": "likeshumidity",
+  "license": "MIT",
+  "private": false
+}
