@@ -119,6 +119,3 @@ console.log((await Promise.all(emails.map(account => {
     statusText: response.statusText
   }
 }))
-
-
-console.debug("Hello World!")
