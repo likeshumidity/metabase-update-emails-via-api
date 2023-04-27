@@ -1,6 +1,9 @@
 # Update Metabase user emails via API from a CSV list
 
-- Tested with Node v18.12.1 and yarn 1.22.19
+- Tested with:
+    - Node v18.12.1
+    - yarn 1.22.19
+    - Metabase v1.46.1
 
 ## Installation and Configuration
 ```
